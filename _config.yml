@@ -2,3 +2,4 @@ theme: minima
 title: za7ff's personal blog
 description: Notes, projects, and ideas from my software development journey
 author: za7ff
+show_excerpts: true
